@@ -14,8 +14,7 @@ $ pip install vandapy
 
 vandapy let's you search, summarise, and get images from the Victoria & Albert Musuem API and returns pythonic objects. For example, you can use the search function to return a pandas dataframe with useful information on your query!
 
-- from vandapy import vandapy
-- vandapy.search("Columbia")
+See examples in docs for instances of how you can use vandapy to look for items or information in the V&A collection.
 
 ## Contributing
 
