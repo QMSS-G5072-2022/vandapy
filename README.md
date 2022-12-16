@@ -2,6 +2,8 @@
 
 Easily retrieve information from the Victoria & Albert musuem API!
 
+For further documentation look here: https://vandapy.readthedocs.io/en/latest/
+
 ## Installation
 
 ```bash
