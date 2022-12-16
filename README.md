@@ -1,6 +1,6 @@
 # vandapy
 
-P: Easily retrieve information from the Victoria & Albert musuem API!
+Easily retrieve information from the Victoria & Albert musuem API!
 
 ## Installation
 
