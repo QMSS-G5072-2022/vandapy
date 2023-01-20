@@ -1,6 +1,6 @@
 # vandapy
 
-Easily retrieve information from the Victoria & Albert Musuem API!
+Pythong Wrapper; Easily retrieve information from the Victoria & Albert Musuem API!
 
 For further documentation look here: https://vandapy.readthedocs.io/en/latest/
 
@@ -12,7 +12,7 @@ $ pip install vandapy
 
 ## Usage
 
-vandapy let's you search, summarise, and get images from the Victoria & Albert Musuem API and returns pythonic objects. For example, you can use the search function to return a pandas dataframe with useful information on your query!
+Vandapy let's you search, summarise, and get images from the Victoria & Albert Musuem API and returns pythonic objects. For example, you can use the search function to return a pandas dataframe with useful information on your query!
 
 See examples in docs for instances of how you can use vandapy to look for items or information in the V&A collection.
 
