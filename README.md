@@ -1,6 +1,6 @@
 # vandapy
 
-Pythong Wrapper; Easily retrieve information from the Victoria & Albert Musuem API!
+Python Wrapper; Easily retrieve information from the Victoria & Albert Musuem API!
 
 For further documentation look here: https://vandapy.readthedocs.io/en/latest/
 
